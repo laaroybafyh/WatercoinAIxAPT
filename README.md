@@ -491,9 +491,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 
-- **Email**: <support@watercoin.com>
-- **GitHub Issues**: [Create an issue](https://github.com/your-repo/watercoin-aptos/issues)
-- **Documentation**: [Full Documentation](https://docs.watercoin.com)
+- **Email**: <admin@watercoinglobal.org>
 
 ---
 
